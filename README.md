@@ -3,7 +3,7 @@
 Duminica - 16 Octombrie 11:30 @Cantina Hasdeu
 
 
-Team organization:
+#Team organization:
 
 Team lead: Bredean Lucian
 
